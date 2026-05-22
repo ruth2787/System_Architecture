@@ -1,2 +1,0 @@
-System architecture
-Prototype Dashboard
